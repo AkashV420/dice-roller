@@ -1,0 +1,6 @@
+java folder : all the kotlin code containing the core logic of the app.
+res folder : contains the static files such as images, screen layouts, textures etc.
+generated java folder : useful for debugging purpose.
+manifests folder : containd the .xml file that talks with the OS. (App Permissions)
+gradle scripts : helps in project setup and generate an apk file.
+		Code to build and run the app .
