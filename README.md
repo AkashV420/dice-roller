@@ -1,11 +1,11 @@
 # dice-roller
-A very basic android app developed in kotlin
+A very basic android app developed in kotlin.
 
 ## Pre-requisite : 
 * Android device
 * min Sdk version : 16
 ## How to run : 
-* Download the apk file.
+* Download the apk file from the app-release folder directly.
 * Install it and run.
 ## Image :
 <img src="/app-release/image.png" height=400 width=200>
